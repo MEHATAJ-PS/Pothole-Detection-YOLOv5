@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+*.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Google Colab artifacts
+*.pt
+runs/
+
+# OS files
+.DS_Store
+Thumbs.db
