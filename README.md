@@ -39,7 +39,7 @@ cd Pothole-Detection-YOLOv5
 
 Sample detection:
 
-[Sample](results/test_img result.jpg)
+[Sample] (results/test_img result.jpg)
 
 ## 📦 Requirements
 
